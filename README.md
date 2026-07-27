@@ -1,78 +1,200 @@
-# Hello, I'm Islam👋
+# Hi there, I'm Islam El-Badawy 👋
 
-I'm a passionate software developer with expertise in JavaScript and TypeScript. I specialize in building scalable and performant web applications. Here, you'll find a collection of my projects and contributions.
+<div align="center">
 
-## 🔧 Technologies & Tools
+### Senior Full-Stack Software Engineer (.NET & Angular)
 
-- **Frontend:**
-  - JavaScript (ES6+)
-  - TypeScript
-  - Angular
-  - React.js
-  - HTML5, CSS3, SASS
-  - Tailwind
-  - Bootstrap
-  - State management
+Building scalable enterprise applications with modern frontend and backend technologies.
 
-- **Backend:**
-  - Node.js
-  - Nest.js
-  - Express.js
-  - MongoDB, MySQL
-  - RESTful APIs
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Islam%20El--Badawy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/islam-elbadawy-22aab4109/)
+[![GitHub](https://img.shields.io/badge/GitHub-islamElbadawy-black?style=for-the-badge&logo=github)](https://github.com/islamElbadawy)
 
-- **Tools:**
-  - Git, GitHub
-  - VSCode
+![](https://komarev.com/ghpvc/?username=islamElbadawy&color=blue&style=for-the-badge)
 
-<!-- ## 🚀 Projects
+</div>
 
-### [Project Name 1](Link to project)
+---
 
-Short description of the project, technologies used, and your role.
+## 👨‍💻 About Me
 
-![Project 1 Screenshot](url-to-screenshot)
+I'm a **Senior Full-Stack Software Engineer** with **6+ years** of experience building enterprise web applications.
 
-### [Project Name 2](Link to project)
+My primary expertise is **Angular**, but over the past few years I've expanded into backend engineering with **.NET 8**, **C#**, **SQL Server**, **PostgreSQL**, and **NestJS**.
 
-Short description of the project, technologies used, and your role.
+Currently I'm contributing to enterprise banking systems for **Saudi Central Bank** through **Link Development**, building secure, high-performance applications used by thousands of users.
 
-![Project 2 Screenshot](url-to-screenshot)
+I enjoy building clean architectures, reusable libraries, scalable APIs, and performant user experiences.
 
-## 📝 Blog & Articles
+---
 
-I write about my experiences, learning, and thoughts on web development. Check out some of my articles:
+# 🚀 Tech Stack
 
-- [Article 1 Title](Link to article)
-- [Article 2 Title](Link to article) -->
+## Frontend
 
-## 📫 Let's Connect
+- Angular
+- React
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Sass (SCSS)
+- Tailwind CSS
+- Bootstrap
+- Angular Material
+- NG-ZORRO
+- PrimeNG
+- jQuery
 
-- LinkedIn: [Islam Elbadawy](https://www.linkedin.com/in/islam-elbadawy-22aab4109/)
+### Angular Ecosystem
 
-<!-- ## 🌱 Learning & Certifications
+- RxJS
+- NgRx
+- Redux
+- Signals (Learning)
+- Angular CLI
+- Standalone Components
+- Lazy Loading
+- Route Guards
+- HTTP Interceptors
+- Custom Directives
+- Custom Pipes
+- Reactive Forms
+- Component Libraries
 
-- Currently learning [Technology/Framework Name]
-- [Certification Name](Link to Certification)
+---
 
-## 🤝 Open Source Contributions
+## Backend
 
-I actively contribute to open source projects. Here are a few of my notable contributions:
+- .NET 8
+- ASP.NET Core Web API
+- C#
+- Entity Framework Core
+- LINQ
+- SQL Server
+- PostgreSQL
+- REST APIs
+- JWT Authentication
+- OAuth2
+- Swagger / OpenAPI
 
-- [Repository Name](Link to repository)
-- [Repository Name](Link to repository) -->
+Also experienced with
 
-## 🎓 Education
+- Node.js
+- NestJS
+- Express.js
+- MikroORM
+- TypeORM
 
-- Bachelor's/Master's in Elctronics and communication systems engineering, Ain shams University, 2021
+---
 
-<!-- ## 📊 GitHub Stats
+## Database
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=stars&theme=dark)
+- SQL Server
+- PostgreSQL
+- MongoDB
+- MySQL
 
-## 📌 Pinned Repositories
+---
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=repo-1&theme=dark)](Link to Repo)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=repo-2&theme=dark)](Link to Repo) -->
+## Architecture & Design
 
-Thanks for stopping by! 😊
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- CQRS
+- SOLID Principles
+- Repository Pattern
+- Unit of Work
+- MVC
+- MVVM
+- Component-Based Architecture
+- Factory Pattern
+- Builder Pattern
+- Singleton Pattern
+- Observer Pattern
+
+---
+
+## Performance & Quality
+
+- Core Web Vitals
+- WCAG Accessibility
+- SEO
+- Cross-browser Compatibility
+- Responsive Design
+- Code Splitting
+- Lazy Loading
+- Tree Shaking
+- Performance Profiling
+
+---
+
+## Testing
+
+- Jasmine
+- Karma
+- Unit Testing
+- Integration Testing
+
+---
+
+## DevOps & Tools
+
+- Git
+- GitHub
+- GitLab
+- Azure DevOps
+- Docker (Learning)
+- Postman
+- Swagger
+- Visual Studio
+- VS Code
+- npm
+- Angular CLI
+
+
+
+# 🌱 Currently Learning
+
+- Advanced .NET
+- Microservices
+- Azure
+- Event-Driven Architecture
+- Event Sourcing
+- Saga Pattern
+- Kubernetes
+- Docker
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=islamElbadawy&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=islamElbadawy&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=islamElbadawy&theme=tokyonight)
+
+---
+
+# 🎓 Education
+
+**Bachelor of Engineering**
+
+Electronics & Communication Systems Engineering
+
+Ain Shams University
+
+---
+
+# 📫 Contact
+
+📧 islam.201211@gmail.com
+
+💼 LinkedIn
+https://linkedin.com/in/islam-elbadawy-22aab4109
+
+🌍 Giza, Egypt
+
+---
+
+⭐ Thanks for visiting my profile!
