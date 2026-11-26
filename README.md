@@ -1,14 +1,12 @@
-<div align="center">
-
 # Islam El-Badawy
 
 ### Senior Software Engineer — System Architecture · Full-Stack Delivery · Security by Design
 
 *Technology-agnostic engineer focused on software fundamentals, clean architecture, and reliable production systems across government, banking, and healthcare.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Islam%20El--Badawy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/islam-elbadawy-22aab4109)
-[![Email](https://img.shields.io/badge/Email-islam.201211%40gmail.com-1F2937?style=flat-square&logo=gmail&logoColor=white)](mailto:islam.201211@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Giza%2C%20Egypt%20(Open%20to%20Relocation)-374151?style=flat-square)](https://github.com/islamElbadawy)
+📍 Giza, Egypt (Open to Relocation)
+✉ [islam.201211@gmail.com](mailto:islam.201211@gmail.com)
+🔗 [LinkedIn Profile](https://linkedin.com/in/islam-elbadawy-22aab4109)
 
 </div>
 
@@ -26,11 +24,11 @@ I focus on **engineering fundamentals over any single stack** — domain modelin
 - **API Design & Contracts:** Treating APIs as long-lived contracts with consistent REST design, OpenAPI documentation, explicit error handling (**Result pattern**), and clean request/response models.
 - **Data Integrity & Persistence:** Relational schema design, Code-First migrations, **Repository & Unit of Work** patterns, transactional workflows, and audit trails.
 - **Security & Regulated Reliability:** Building for banking, government, and healthcare standards — **JWT with refresh token rotation**, **OAuth2**, **multi-level RBAC**, **rate limiting**, and **HIPAA-compliant** data handling.
-- **Code Quality & End-to-End Delivery:** Applying design patterns (Factory, Singleton, Builder, Observer, Result), automated testing, code reviews, CI/CD quality gates, **Core Web Vitals** optimization, and **WCAG** accessibility.
+- **Code Quality & End-to-End Delivery:** Applying design patterns, automated CI/CD pipelines, and rigorous testing strategies to guarantee reliability before deployment.
 
 ---
 
-## Featured Systems
+## Featured Projects
 
 ### [TaskFlow](https://github.com/islamElbadawy/TaskFlow) — Collaborative Task Management System
 - **Architecture:** Clean Architecture (`Domain`, `Application`, `Infrastructure`, `API`) and **CQRS** with custom command/query dispatchers.
