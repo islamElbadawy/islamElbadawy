@@ -1,190 +1,71 @@
-# Hi there, I'm Islam El-Badawy 👋
-
 <div align="center">
 
-### Senior Full-Stack Software Engineer (.NET & Angular)
+# Islam El-Badawy
 
-Building scalable enterprise applications with modern frontend and backend technologies.
+### Senior Software Engineer — System Architecture · Full-Stack Delivery · Security by Design
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Islam%20El--Badawy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/islam-elbadawy-22aab4109/)
-[![GitHub](https://img.shields.io/badge/GitHub-islamElbadawy-black?style=for-the-badge&logo=github)](https://github.com/islamElbadawy)
+*Technology-agnostic engineer focused on software fundamentals, clean architecture, and reliable production systems across government, banking, and healthcare.*
 
-![](https://komarev.com/ghpvc/?username=islamElbadawy&color=blue&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Islam%20El--Badawy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/islam-elbadawy-22aab4109)
+[![Email](https://img.shields.io/badge/Email-islam.201211%40gmail.com-1F2937?style=flat-square&logo=gmail&logoColor=white)](mailto:islam.201211@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Giza%2C%20Egypt%20(Open%20to%20Relocation)-374151?style=flat-square)](https://github.com/islamElbadawy)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Engineering Philosophy
 
-I'm a **Senior Full-Stack Software Engineer** with **6+ years** of experience building enterprise web applications.
+Software Engineer with **6+ years of experience** designing and delivering secure, maintainable production systems in regulated environments (**government, banking, and healthcare**).
 
-My primary expertise is **Angular**, but over the past few years I've expanded into backend engineering with **.NET 8**, **C#**, **SQL Server**, **PostgreSQL**, and **NestJS**.
+I focus on **engineering fundamentals over any single stack** — domain modeling, decoupled architecture, durable API contracts, relational data integrity, and security by design — adopting whichever language or ecosystem best fits the system and team.
 
-Currently I'm contributing to enterprise banking systems for **Saudi Central Bank** through **Link Development**, building secure, high-performance applications used by thousands of users.
+### Core Engineering Pillars
 
-I enjoy building clean architectures, reusable libraries, scalable APIs, and performant user experiences.
-
----
-
-# 🚀 Tech Stack
-
-## Frontend
-
-- Angular
-- React
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Sass (SCSS)
-- Tailwind CSS
-- Bootstrap
-- Angular Material
-- NG-ZORRO
-- PrimeNG
-- jQuery
-
-### Angular Ecosystem
-
-- RxJS
-- NgRx
-- Redux
-- Signals (Learning)
-- Angular CLI
-- Standalone Components
-- Lazy Loading
-- Route Guards
-- HTTP Interceptors
-- Custom Directives
-- Custom Pipes
-- Reactive Forms
-- Component Libraries
+- **Architecture & Domain Modeling:** Designing decoupled systems using **Clean Architecture**, **Domain-Driven Design (DDD)**, and **CQRS** with clear boundaries across Domain, Application, Infrastructure, and API layers.
+- **API Design & Contracts:** Treating APIs as long-lived contracts with consistent REST design, OpenAPI documentation, explicit error handling (**Result pattern**), and clean request/response models.
+- **Data Integrity & Persistence:** Relational schema design, Code-First migrations, **Repository & Unit of Work** patterns, transactional workflows, and audit trails.
+- **Security & Regulated Reliability:** Building for banking, government, and healthcare standards — **JWT with refresh token rotation**, **OAuth2**, **multi-level RBAC**, **rate limiting**, and **HIPAA-compliant** data handling.
+- **Code Quality & End-to-End Delivery:** Applying design patterns (Factory, Singleton, Builder, Observer, Result), automated testing, code reviews, CI/CD quality gates, **Core Web Vitals** optimization, and **WCAG** accessibility.
 
 ---
 
-## Backend
+## Featured Systems
 
-- .NET 8
-- ASP.NET Core Web API
-- C#
-- Entity Framework Core
-- LINQ
-- SQL Server
-- PostgreSQL
-- REST APIs
-- JWT Authentication
-- OAuth2
-- Swagger / OpenAPI
+### [TaskFlow](https://github.com/islamElbadawy/TaskFlow) — Collaborative Task Management System
+- **Architecture:** Clean Architecture (`Domain`, `Application`, `Infrastructure`, `API`) and **CQRS** with custom command/query dispatchers.
+- **Persistence & Reliability:** Code-First relational modeling using Repository, Unit of Work, and explicit Result-pattern error handling.
+- **Security & Workflows:** JWT authentication, role-based authorization (RBAC), notification workflows, and dashboard analytics APIs.
+- **Delivery:** Automated CI/CD pipeline running back-end and front-end test suites as quality gates before SSH deployment.
+- *Implemented with: .NET 8, C# 12, ASP.NET Core, EF Core, SQL Server, GitHub Actions, GCP VPS*
 
-Also experienced with
-
-- Node.js
-- NestJS
-- Express.js
-- MikroORM
-- TypeORM
+### [Fixio](https://github.com/islamElbadawy/fixio) — Workshop & Inventory Management System
+- **Architecture:** Modular **DDD** and **CQRS** back-end design with full OpenAPI/Swagger contract documentation.
+- **Security:** JWT authentication with refresh token rotation, four-level RBAC, and API rate limiting.
+- **Domain Workflows:** End-to-end work order lifecycle with automatic spare-part reservation, inventory audit trails, and automated invoicing.
+- *Implemented with: NestJS, TypeScript, MikroORM, PostgreSQL*
 
 ---
 
-## Database
+## Enterprise Experience Highlights
 
-- SQL Server
-- PostgreSQL
-- MongoDB
-- MySQL
-
----
-
-## Architecture & Design
-
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- CQRS
-- SOLID Principles
-- Repository Pattern
-- Unit of Work
-- MVC
-- MVVM
-- Component-Based Architecture
-- Factory Pattern
-- Builder Pattern
-- Singleton Pattern
-- Observer Pattern
+- **Link Development** *(Mar 2024 – Present)* — Engineering enterprise platforms for the **UAE Ministry of Higher Education & Scientific Research** (multi-step student request workflows, status tracking, reporting dashboards) and the **Saudi Central Bank & Saudi Data Network** (secure online banking platform, real-time transactions, fund transfers, financial reporting, reusable component architectures, Core Web Vitals, and WCAG accessibility — including `csf.eg`).
+- **Kkesh Hospital** *(2023 – Present · Part-time)* — Developing and maintaining a HIPAA-compliant hospital back-office management system covering administration, patient management, and internal operational workflows.
+- **Dev-worx & Freelance** *(2019 – 2023)* — Full-lifecycle delivery of enterprise and e-commerce web applications, payment gateway integrations, design-pattern-driven architectures, and technical code reviews.
 
 ---
 
-## Performance & Quality
+## Ecosystems I've Shipped Production Systems With
 
-- Core Web Vitals
-- WCAG Accessibility
-- SEO
-- Cross-browser Compatibility
-- Responsive Design
-- Code Splitting
-- Lazy Loading
-- Tree Shaking
-- Performance Profiling
+> Tools change; engineering fundamentals transfer. Below are the ecosystems I've used in production:
+
+- **Back End & APIs:** `.NET (8 / ASP.NET Core / Framework)` · `C#` · `Node.js` · `NestJS` · `ABP.IO` · `REST / OpenAPI`
+- **Data & Persistence:** `SQL Server (T-SQL)` · `PostgreSQL` · `Entity Framework Core` · `MikroORM`
+- **Front End:** `TypeScript` · `JavaScript (ES6+)` · `Angular` · `React` · `RxJS` · `NgRx / Redux` · `Tailwind CSS`
+- **DevOps & Delivery:** `Docker` · `GitHub Actions` · `CI/CD Pipelines` · `Google Cloud (GCP) VPS` · `Git`
 
 ---
 
-## Testing
+## Education
 
-- Jasmine
-- Karma
-- Unit Testing
-- Integration Testing
-
----
-
-## DevOps & Tools
-
-- Git
-- GitHub
-- GitLab
-- Azure DevOps
-- Docker (Learning)
-- Postman
-- Swagger
-- Visual Studio
-- VS Code
-- npm
-- Angular CLI
-
-
-
-# 🌱 Currently Learning
-
-- Advanced .NET
-- Microservices
-- Azure
-- Event-Driven Architecture
-- Event Sourcing
-- Saga Pattern
-- Kubernetes
-- Docker
-
----
-
-# 🎓 Education
-
-**Bachelor of Engineering**
-
-Electronics & Communication Systems Engineering
-
-Ain Shams University
-
----
-
-# 📫 Contact
-
-📧 islam.201211@gmail.com
-
-💼 LinkedIn
-https://linkedin.com/in/islam-elbadawy-22aab4109
-
-🌍 Giza, Egypt
-
----
-
-⭐ Thanks for visiting my profile!
+- **B.Sc. in Electronics and Communication Systems Engineering** — Ain Shams University, Cairo, Egypt
